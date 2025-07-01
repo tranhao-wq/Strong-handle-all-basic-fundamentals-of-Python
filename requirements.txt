@@ -1,0 +1,15 @@
+# Python Fundamentals Practice App
+# No external dependencies required - uses only Python standard library
+
+# Core dependencies (included with Python)
+# tkinter - GUI framework (built-in)
+# json - JSON data handling (built-in)
+# os - Operating system interface (built-in)
+# datetime - Date and time utilities (built-in)
+# random - Random number generation (built-in)
+
+# Optional dependencies for future enhancements
+# Uncomment if needed:
+# pillow>=8.0.0          # For advanced image handling
+# matplotlib>=3.0.0      # For data visualization
+# numpy>=1.20.0          # For numerical computations
