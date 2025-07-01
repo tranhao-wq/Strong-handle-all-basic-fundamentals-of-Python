@@ -1,4 +1,5 @@
 # 🐍 Python Fundamentals Practice App
+![image](https://github.com/user-attachments/assets/8fb6a55c-bb83-44f1-9219-8cf2e8c3f106)
 
 A comprehensive desktop application built with Python Tkinter to help beginners master core Python programming concepts through interactive exercises and hands-on practice.
 ## Apps
