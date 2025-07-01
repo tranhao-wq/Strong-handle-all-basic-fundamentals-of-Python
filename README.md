@@ -1,6 +1,25 @@
 # 🐍 Python Fundamentals Practice App
 
 A comprehensive desktop application built with Python Tkinter to help beginners master core Python programming concepts through interactive exercises and hands-on practice.
+## Apps
+![image](https://github.com/user-attachments/assets/d3d46357-110f-499e-8819-385840140040)
+![image](https://github.com/user-attachments/assets/7d7610c1-9227-4536-8f68-761afcf51aa6)
+![image](https://github.com/user-attachments/assets/19d49a78-fed6-4d38-9a0c-84a533079817)
+![image](https://github.com/user-attachments/assets/a7770159-902b-41c8-abff-0db6f9299ebc)
+![image](https://github.com/user-attachments/assets/c31f9ffb-3d2f-47c0-b546-96a9c51b217a)
+![image](https://github.com/user-attachments/assets/dfab192b-7301-4190-9bf3-3e5559693089)
+![image](https://github.com/user-attachments/assets/feabb12b-c9b6-41c2-bec7-9934c567a21c)
+![image](https://github.com/user-attachments/assets/29c541cf-422b-412a-955c-bc6e3646cf17)
+![image](https://github.com/user-attachments/assets/538f7743-8236-4071-92e0-04f1fbfdb18c)
+![image](https://github.com/user-attachments/assets/5e76418f-7875-49ae-81ee-c8d04c207d83)
+![image](https://github.com/user-attachments/assets/b1f74120-d8cb-4c6b-9482-c71d2562f754)
+![image](https://github.com/user-attachments/assets/539688c5-9341-4f22-999c-48c9d6e94ce1)
+![image](https://github.com/user-attachments/assets/a2beb0b9-f30f-43dd-b4a8-2193db8e24c2)
+![image](https://github.com/user-attachments/assets/9f7b6f4b-38c4-4735-99a9-a93ca39a600a)
+![image](https://github.com/user-attachments/assets/83bee78a-2b92-477b-ae15-2d250bb5a153)
+![image](https://github.com/user-attachments/assets/e1b47043-b4aa-4bcb-8f16-f14d4b4a523a)
+![image](https://github.com/user-attachments/assets/8eaeae56-a07c-4207-b1c8-c7e06bafb2ff)
+![image](https://github.com/user-attachments/assets/3f21916a-0d25-4cf8-8d3b-a24e88e6854f)
 
 ## ✨ Features
 
